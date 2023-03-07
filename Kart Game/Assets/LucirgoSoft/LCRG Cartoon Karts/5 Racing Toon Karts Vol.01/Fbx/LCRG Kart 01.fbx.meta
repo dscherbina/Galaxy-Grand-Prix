@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: b414c95a4d7656d43b81814295ad70bc
+timeCreated: 1517877330
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Break_BL
+    100002: Break_BR
+    100004: Break_FL
+    100006: Break_FR
+    100008: K_01_BCKbump
+    100010: K_01_bump
+    100012: K_BCI
+    100014: K_FCI
+    100016: Kart_01_BMUF
+    100018: Kart_01_Body
+    100020: Kart_01_pl
+    100022: Kart_01sit
+    100024: //RootNode
+    100026: R_Win
+    100028: R_Win__2
+    100030: Stearing_Wheel
+    100032: Wheel_BL
+    100034: Wheel_BR
+    100036: Wheel_FL
+    100038: Wheel_FR
+    400000: Break_BL
+    400002: Break_BR
+    400004: Break_FL
+    400006: Break_FR
+    400008: K_01_BCKbump
+    400010: K_01_bump
+    400012: K_BCI
+    400014: K_FCI
+    400016: Kart_01_BMUF
+    400018: Kart_01_Body
+    400020: Kart_01_pl
+    400022: Kart_01sit
+    400024: //RootNode
+    400026: R_Win
+    400028: R_Win__2
+    400030: Stearing_Wheel
+    400032: Wheel_BL
+    400034: Wheel_BR
+    400036: Wheel_FL
+    400038: Wheel_FR
+    2300000: Break_BL
+    2300002: Break_BR
+    2300004: Break_FL
+    2300006: Break_FR
+    2300008: K_01_BCKbump
+    2300010: K_01_bump
+    2300012: K_BCI
+    2300014: K_FCI
+    2300016: Kart_01_BMUF
+    2300018: Kart_01_Body
+    2300020: Kart_01_pl
+    2300022: Kart_01sit
+    2300024: R_Win
+    2300026: R_Win__2
+    2300028: Stearing_Wheel
+    2300030: Wheel_BL
+    2300032: Wheel_BR
+    2300034: Wheel_FL
+    2300036: Wheel_FR
+    3300000: Break_BL
+    3300002: Break_BR
+    3300004: Break_FL
+    3300006: Break_FR
+    3300008: K_01_BCKbump
+    3300010: K_01_bump
+    3300012: K_BCI
+    3300014: K_FCI
+    3300016: Kart_01_BMUF
+    3300018: Kart_01_Body
+    3300020: Kart_01_pl
+    3300022: Kart_01sit
+    3300024: R_Win
+    3300026: R_Win__2
+    3300028: Stearing_Wheel
+    3300030: Wheel_BL
+    3300032: Wheel_BR
+    3300034: Wheel_FL
+    3300036: Wheel_FR
+    4300000: Kart_01_BMUF
+    4300002: Kart_01_Body
+    4300004: K_01_BCKbump
+    4300006: K_01_bump
+    4300008: R_Win__2
+    4300010: K_FCI
+    4300012: K_BCI
+    4300014: Kart_01_pl
+    4300016: Stearing_Wheel
+    4300018: Kart_01sit
+    4300020: Wheel_BL
+    4300022: Wheel_FL
+    4300024: Wheel_FR
+    4300026: Wheel_BR
+    4300028: R_Win
+    4300030: Break_FR
+    4300032: Break_FL
+    4300034: Break_BR
+    4300036: Break_BL
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
